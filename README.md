@@ -6,16 +6,12 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [How to setup the project](#how-to-setup-the-project)
-  - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  
+
 
 ## Overview
 
