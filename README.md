@@ -29,7 +29,7 @@ Users can also search for any IP addresses or domains and see the key informatio
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/SartHak-0-Sach/IP-address-tracker_frontend_project)
+- Solution URL: [GitHub Repository](https://github.com/Sourabh-gupta15/IP-Address-Tracker)
 - Live Site URL: [Live Site](https://ip-address-tracker-app-project.netlify.app/)
 
 ## My process
